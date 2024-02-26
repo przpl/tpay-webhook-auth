@@ -1,0 +1,8 @@
+.git
+.gitignore
+node_modules/
+src/
+tsconfig.json
+.DS_Store
+README.md
+LICENSE
