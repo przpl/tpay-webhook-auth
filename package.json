@@ -36,5 +36,9 @@
     },
     "engines": {
         "node": ">=22.0.0"
+    },
+    "allowScripts": {
+        "@swc/core@1.15.43": true,
+        "unrs-resolver@1.12.2": true
     }
 }
