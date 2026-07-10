@@ -22,7 +22,7 @@
     "main": "dist/index.js",
     "scripts": {
         "build": "rimraf -rf dist && tsc",
-        "npm:publish": "npm run build && npm publish --public",
+        "npm:publish": "npm run build && npm publish --access public",
         "test": "jest"
     },
     "devDependencies": {
