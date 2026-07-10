@@ -23,7 +23,7 @@ app.use("/tpay-notification-webhook", raw({ type: "application/x-www-form-urlenc
 
 ## Requirements
 
--   Node.js v18.0.0 or higher
+-   Node.js v22.0.0 or higher
 
 ## Examples
 
